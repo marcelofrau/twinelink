@@ -18,7 +18,7 @@ git clone --recurse-submodules https://github.com/marcelofrau/twinelink.git
 openspec store register docs
 openspec workset open twinelink
 ```
-## Working rules (all Twine repositories)
+## Working rules (all twinelink repositories)
 - Everything committed is in English (docs, code, comments, commits, PRs).
   The maintainer chats in Portuguese and uses a terse, compressed style.
 - OpenSpec-first: every feature/fix is an OpenSpec change (proposal, specs,
