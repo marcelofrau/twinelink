@@ -1,0 +1,6 @@
+[submodule "desktop"]
+	path = desktop
+	url = https://github.com/marcelofrau/twinelink-desktop.git
+[submodule "android"]
+	path = android
+	url = https://github.com/marcelofrau/twinelink-android.git
