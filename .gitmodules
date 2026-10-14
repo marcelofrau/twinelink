@@ -4,3 +4,6 @@
 [submodule "android"]
 	path = android
 	url = https://github.com/marcelofrau/twinelink-android.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/marcelofrau/twinelink-docs.git
